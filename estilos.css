@@ -1,4 +1,4 @@
-/*   FORMULARIO    */
+
 
 body{
 	margin:30px;
@@ -13,6 +13,7 @@ h1{
 	text-align: center;
 }
 
+/*   FORMULARIO    */
 
 *,:after,:before{box-sizing:border-box}
 .clearfix:after,.clearfix:before{content:'';display:table}
@@ -203,18 +204,14 @@ img {
 
 .Galeria{
 	float: left;
-	padding: 10px;
-	height: 10%;
-	width: 20%;
-	margin: auto;
 	
-	
+		
 
 }
 
 .Galeria.img1{
 
-	width: 250px; height: 250px;
+	width:  420px; height: 350px;
 	background: url(Imagenes/ganardor1_a.jpg)no-repeat center;
 	
 }
@@ -227,7 +224,7 @@ img {
 
 .Galeria.img2{
 
-	width: 250px; height: 250px;
+	width: 420px; height: 350px;
 	background: url(Imagenes/ganardor2_a.jpg)no-repeat center;
 }
 
@@ -237,7 +234,7 @@ img {
 
 .Galeria.img3{
 
-	width: 250px; height: 250px;
+	width:  420px; height: 350px;
 	background: url(Imagenes/ganardor3_a.jpg) no-repeat center;
 }
 
@@ -247,7 +244,7 @@ img {
 
 .Galeria.img4{
 
-	width: 250px; height: 250px;
+	width: 420px; height: 350px;
 	background: url(Imagenes/ganardor4_a.jpg)no-repeat center;
 }
 
@@ -257,7 +254,7 @@ img {
 
 .Galeria.img5{
 
-	width: 250px; height: 250px;
+	width: 420px; height: 350px;
 	background: url(Imagenes/ganardor5_a.jpg)no-repeat center;
 }
 
@@ -267,7 +264,7 @@ img {
 
 .Galeria.img6{
 
-	width: 250px; height: 250px;
+	width: 420px; height: 350px;
 	background: url(Imagenes/ganardor6_a.jpg)no-repeat center;
 }
 

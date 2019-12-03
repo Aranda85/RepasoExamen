@@ -1,10 +1,16 @@
 /*   FORMULARIO    */
 
 body{
-	margin:0;
+	margin:30px;
 	color:white;
 	background: green;
+	font-size: 20px;
 	
+	
+}
+
+h1{
+	text-align: center;
 }
 
 
@@ -27,7 +33,7 @@ a{color:inherit;text-decoration:none}
 	height:100%;
 	position:absolute;
 	padding:90px 70px 50px 70px;
-	background:rgba(40,57,101,.9);
+	background:rgba(3, 71, 20, 0.9)
 }
 .login-html .sign-in-htm,
 .login-html .sign-up-htm{
@@ -163,7 +169,7 @@ header{
 nav{
 
     text-align: right;
-    background: black;
+    background: green;
     padding: 20px 300px 20px 0px;
     margin: 90px 
     0px 0px 0px;
@@ -173,8 +179,98 @@ nav{
 }
 
 .menu{
-    padding :90px ;
-    margin: 90px;
+	margin: 20px;
+	text-align: right;
 
 
+}
+
+span{
+
+width: 20%;	
+	
+}
+
+
+
+
+
+img {
+
+	
+
+}
+
+.Galeria{
+	float: left;
+	padding: 10px;
+	height: 10%;
+	width: 20%;
+	margin: auto;
+	
+	
+
+}
+
+.Galeria.img1{
+
+	width: 250px; height: 250px;
+	background: url(Imagenes/ganardor1_a.jpg)no-repeat center;
+	
+}
+
+.Galeria.img1:hover {
+	background: url(Imagenes/ganardor1_b.jpg)no-repeat center;
+
+	
+}
+
+.Galeria.img2{
+
+	width: 250px; height: 250px;
+	background: url(Imagenes/ganardor2_a.jpg)no-repeat center;
+}
+
+.Galeria.img2:hover {
+	background: url(Imagenes/ganardor2_b.jpg)no-repeat center;
+}
+
+.Galeria.img3{
+
+	width: 250px; height: 250px;
+	background: url(Imagenes/ganardor3_a.jpg) no-repeat center;
+}
+
+.Galeria.img3:hover {
+	background: url(Imagenes/ganardor3_b.jpg)no-repeat center;
+}
+
+.Galeria.img4{
+
+	width: 250px; height: 250px;
+	background: url(Imagenes/ganardor4_a.jpg)no-repeat center;
+}
+
+.Galeria.img4:hover {
+	background: url(Imagenes/ganardor4_b.jpg)no-repeat center;
+}
+
+.Galeria.img5{
+
+	width: 250px; height: 250px;
+	background: url(Imagenes/ganardor5_a.jpg)no-repeat center;
+}
+
+.Galeria.img5:hover {
+	background: url(Imagenes/ganardor5_b.jpg)no-repeat center;
+}
+
+.Galeria.img6{
+
+	width: 250px; height: 250px;
+	background: url(Imagenes/ganardor6_a.jpg)no-repeat center;
+}
+
+.Galeria.img6:hover {
+	background: url(Imagenes/ganardor6_b.jpg)no-repeat center;
 }

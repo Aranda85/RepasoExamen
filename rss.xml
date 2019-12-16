@@ -1,19 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
-<?xml version ="1.0" encoding="UTF-8">
-
-<rss version= "2.0">
+<rss version="2.0">
 
 <channel>
 <title>RSS Reyes Aranda</title>
-<link> file:///C:/Users/FPGS%20REYES/Desktop/RepasoExamen/index.html</link>
-<descripcion> Noticias Actualidad</descripcion>
+<link> http://localhost/index.html</link>
+<description> Noticias Actualidad</description>
 
 <item>
 
 
 <title>1ª Noticia</title>
-<link> https://elpais.com/tag/fecha/ultimahora</link>
-<descripcion> Ultimas noticias el país </descripcion>
+<link> https://elpais.com</link>
+<description> Ultimas noticias el país </description>
 
 
 
@@ -24,7 +23,7 @@
 
 <title>2ª Noticia</title>
 <link> https://vandal.elespanol.com/noticias/videojuegos </link>
-<descripcion> Noticias Videojuegos </descripcion>
+<description> Noticias Videojuegos </description>
 
 
 
@@ -35,7 +34,7 @@
 
 <title>3ª Noticia</title>
 <link> https://www.preferente.com/noticias-de-hoteles/black-friday-estos-son-los-grandes-chollos-para-viajar-294876.html </link>
-<descripcion> Black Friday</descripcion>
+<description> Black Friday</description>
 
 
 
@@ -43,18 +42,9 @@
 
 
 <item>
-
-
 <title>4ª Noticia</title>
 <link> https://gastronomiaycia.republica.com/category/noticias-gastronomicas/ </link>
-<descripcion> Noticias Gastronomia</descripcion>
-
-
-
+<description> Noticias Gastronomia</description>
 </item>
-
-
-
-
-
-</chanel>
+</channel>
+</rss>

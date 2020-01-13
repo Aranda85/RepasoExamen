@@ -1,5 +1,5 @@
 
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <!--Se crea el canal, se determina el estándar a utilizar y el idioma del documento-->
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">

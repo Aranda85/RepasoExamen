@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+<channel>
+<title>RSS Reyes Aranda</title>
+<link> http://localhost/index.html</link>
+<description> Noticias Actualidad</description>
+
+<item>
+
+
+<title>1ª Noticia</title>
+<link> https://elpais.com</link>
+<description> Ultimas noticias el país </description>
+
+
+
+</item>
+
+<item>
+
+
+<title>2ª Noticia</title>
+<link> https://vandal.elespanol.com/noticias/videojuegos </link>
+<description> Noticias Videojuegos </description>
+
+
+
+</item>
+
+<item>
+
+
+<title>3ª Noticia</title>
+<link> https://www.preferente.com/noticias-de-hoteles/black-friday-estos-son-los-grandes-chollos-para-viajar-294876.html </link>
+<description> Black Friday</description>
+
+
+
+</item>
+
+
+<item>
+<title>4ª Noticia</title>
+<link> https://gastronomiaycia.republica.com/category/noticias-gastronomicas/ </link>
+<description> Noticias Gastronomia</description>
+</item>
+</channel>
+</rss>

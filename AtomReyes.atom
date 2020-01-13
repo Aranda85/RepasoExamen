@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!--Se crea el canal, se determina el estándar a utilizar y el idioma del documento-->
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+<title type="text">LLMM Tarea RSS ATOM</title>
+<id>http://actividadweb3-webreyes.apps.ca-central-1.starter.openshift-online.com</id>
+<link rel="self" type="application/atom+xml" href="http://actividadweb3-webreyes.apps.ca-central-1.starter.openshift-online.com/AtomReyes.atom" />
+<link rel="alternate" type="text/html" href="http://actividadweb3-webreyes.apps.ca-central-1.starter.openshift-online.com"/>
+<updated>2020-1-11T19:20:46Z</updated>
+<author>
+<name>Reyes Aranda Álvarez</name>
+<email>rm.arandaalvarez@iesrodmarin.com</email>
+</author>
+
+<!--Se definen las secciones que forman el canal-->
+<entry>
+<title>El tiempo en Casariche</title>
+<link rel="alternate" type="text/html" href="https://www.eltiempo.es/casariche.html" />
+<updated>2020-1-12T19:19:46Z</updated>
+<id>https://www.eltiempo.es/casariche.html</id>
+<author>
+<name>Reyes Aranda Álvarez</name>
+<email>rm.arandaalvarez@iesrodmarin.com</email>
+</author>
+<summary>Consulta el tiempo meteorológico de Casariche</summary>
+</entry>
+<entry>
+<title>Noticias de interés para programadores</title>
+<link rel="alternate" type="text/html" href="https://www.lawebdelprogramador.com/noticias/index1.html"/>
+<updated>2020-1-12T19:17:55Z</updated>
+<id>https://www.lawebdelprogramador.com/noticias/index1.html</id>
+<author>
+<name>Reyes Aranda Álvarez</name>
+<email>rm.arandaalvarez@iesrodmarin.com</email>
+</author>
+<summary>Aqui podras encontrar todo tipo de noticias interesantes para programadores</summary>
+</entry>
+</feed>

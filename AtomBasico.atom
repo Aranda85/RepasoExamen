@@ -1,0 +1,33 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Se crea el canal, se determina el estándar a utilizar y el idioma del documento-->
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+
+<!--Es el titulo del enlace al que hace refernecia-->
+
+<title type="text">LLMM Tarea RSS ATOM BÁSICO</title>
+
+<!--identificador del canal. Habitualmente su URL-->
+
+<id></id>
+
+<!--Enlaces que definen el canla, son necesarios dos: Uno al propio fichero.atom, cuyo valor del atributo rel del elemento link sera "self",
+-Otro fichero web que oferta ese canal , en este caso rel = "alternate"-->
+
+<link rel="self" type="application/atom+xml" href="" />
+<link rel="alternate" type="text/html" href=""/>
+
+<!--Fecha y hora de actualizacion, utilizando el formato-->
+<updated>2020-1-11T19:20:46Z</updated>
+
+<!--Define el autor del enlace-->
+<author>
+<name>Reyes Aranda Álvarez</name>
+<email>rm.arandaalvarez@iesrodmarin.com</email>
+</author>
+
+<!--Definira cada una de las secciones del canal-->
+
+<entry></entry>
+
